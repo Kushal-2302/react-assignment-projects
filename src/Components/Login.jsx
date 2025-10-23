@@ -43,7 +43,7 @@ const Login = () => {
             {isLoginMode && (
                 <div className="text-right">
                     <a href="#" className="text-cyan-600 hover:underline">
-                    <p>Forgot Password?</p>
+                    <p>Forgot Pwd?</p>
                     </a>
                 </div>
             )}
