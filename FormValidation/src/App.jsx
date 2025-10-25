@@ -263,7 +263,7 @@ function App() {
 
                 {
                   formData.message && (
-                    <span className='text-blue-500 mt-1 w-full block animate-pulse text-left'>Thanks for the additional info!</span>
+                    <span className='text-blue-500 mt-1 w-full block animate-pulse text-left'>Thanks for additional info!</span>
                   )
                 }
               </div>
